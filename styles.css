@@ -2,12 +2,14 @@
     background-color: rgb(38, 38, 38);
     padding-bottom: 10px;
     padding-top: 10px;
-    padding-left: 30p;
     margin: 0;
     width: 100vW;
     text-align: center;
     position: sticky;
     top: 0;
+}
+#titulo{
+    color: rgb(161, 161, 161);
 }
 body{
     height: 1000px;
@@ -19,4 +21,7 @@ body{
     background-color: rgb(205, 205, 205);
     margin: 30px;
     padding: 1px 10px 1px 20px;
+}
+footer{
+    text-align: center;
 }
