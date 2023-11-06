@@ -1,9 +1,22 @@
 #cabecera{
     background-color: rgb(38, 38, 38);
-    padding: 0px 30px 30px 50px;
-    position: ;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30p;
+    margin: 0;
+    width: 100vW;
+    text-align: center;
+    position: sticky;
+    top: 0;
 }
 body{
+    height: 1000px;
     margin: 0;
     padding: 0;
+}
+
+.info{
+    background-color: rgb(205, 205, 205);
+    margin: 30px;
+    padding: 1px 10px 1px 20px;
 }
